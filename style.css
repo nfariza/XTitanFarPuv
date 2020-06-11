@@ -1,0 +1,54 @@
+	html {
+		height: 100%;
+	}
+		
+	body {
+		margin: 30px 130px;
+		font-family: Arial;
+		font-size: 15px;
+		background: linear-gradient(to bottom right, #660066 0%, #cc0099 100%);
+		color: #550132;
+	}
+
+	#board {
+		border: 2px solid #8EE4AF;
+		margin: 50px 50px;
+		padding: 10px 10px;
+		background: linear-gradient(to bottom right, #ff66ff 0%, #ff99cc 100%);
+	}
+
+	#login {
+		margin: 50px 450px 50px 450px;
+		text-align: center;
+		color: #0c0c0c;
+		border: 2px solid #8EE4AF;
+		padding: 10px 10px;
+		background: linear-gradient(to bottom right, #ff66ff 0%, #ff99cc 100%);
+	}
+
+	#newpost {
+		border: 2px solid #8EE4AF;
+		margin: 50px 300px 50px 300px;
+		padding: 10px 10px;
+		background-color: rgb(233, 107, 216);
+		color: #0c0c0c;
+	}
+
+	#footer {
+		position: fixed;
+		width: 100%;
+		bottom: 0%;
+		left: 0%;
+		text-align: center;
+		background-color: #660066;
+		color: #ffffff ;
+	}
+
+	#logout{
+		font-family: Arial;
+		font-size: 20px;
+		color: #ffccff;
+		text-align: center;
+	}
+
+		
