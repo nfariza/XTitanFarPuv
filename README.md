@@ -37,3 +37,8 @@ MySQL
     <img src="https://github.com/nfariza/XTitanFarPuv/blob/master/xtitan/screenshots/8.png" width="400" height="auto">
     &nbsp  &nbsp  &nbsp  &nbsp
 </p>
+
+## Contributor 
+Group project consists of two students. 
+* Nur Fariza Binti Baharuddin [In charge with coding]
+* Puveemalar A/P Parameswaran
