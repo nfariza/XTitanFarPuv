@@ -3,16 +3,20 @@ X Titan E-Comm, is a corporate e-commerce service. X Titan E-Comm is daily needs
 Promotions, special discounts, promotions and activities are offered on a daily basis that is always posted on the X Titan E-Comm website's notification board page to attract customers to visit the website regularly
 
 X Titan E-Comm announcement board is an application to view updates and news of X Titan E-Comm. To ensure that it is secure, only the admin can update the announcement board.
-This announcement board is implemented by using Hypertext Markup Language (HTML), Hypertext Preprocessor (PHP) and is connected to the database MYSQL.
 
 ## Notes
 * The system only have two user, admin and guest
 * The admin can add new announcements while the guest only can view the announcements
+* admin id = admin, password = admin1234
+
    
 ## Language
 * PHP
 * HTML
 * CSS
+
+## Database
+MySQL
 
 ## Screenshots
 <p>
